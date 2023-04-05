@@ -1,0 +1,1 @@
+/home/pedro/Documents/VSCode/github_repos/advent2022/day16/rust16/target/debug/rust16: /home/pedro/Documents/VSCode/github_repos/advent2022/day16/rust16/src/helper.rs /home/pedro/Documents/VSCode/github_repos/advent2022/day16/rust16/src/main.rs
