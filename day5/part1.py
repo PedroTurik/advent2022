@@ -2,6 +2,7 @@ from input_parser import parser
 
 lines, commands = parser('full-input.txt')
 
+print(lines)
 
 for qtd, f, t in commands:
     for _ in range(qtd):

@@ -1,0 +1,1 @@
+/home/pedro/Documents/VSCode/github_repos/advent2022/day24/target/release/day24: /home/pedro/Documents/VSCode/github_repos/advent2022/day24/src/main.rs
